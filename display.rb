@@ -1,5 +1,5 @@
 def greet(person)
-  puts "Hello, Hellos" + person
+  puts "Hello" + person
 end
 
 greet("Johna")
